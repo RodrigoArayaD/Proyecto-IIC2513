@@ -1,6 +1,6 @@
 # Proyecto-IIC2513
 
-## Criterios de Evaluación
+## Criterios de Evaluación - Entrega 1
 
 <table>
   <thead>
